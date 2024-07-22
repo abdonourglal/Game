@@ -1,7 +1,8 @@
 - You Try   https://abdonourglal.github.io/Game/
 - start the
 - 
-- ![game](https://github.com/user-attachments/assets/fd4f26a4-0be7-4177-8a10-6fadb9529710)
+- ![start](https://github.com/user-attachments/assets/141c5701-d92b-4d0d-9907-0a6b4798d448)
+
 - 
 - you win if get 100 point 
 
